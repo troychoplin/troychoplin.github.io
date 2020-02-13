@@ -1,8 +1,8 @@
-## Developer Portfolio Landing Page Template
+## Portfolio
 
 ### Introduction
 
-Use this template if you need a quick developer / data science portfolio! Based on a Minimal Jekyll theme for GitHub Pages.
+Welcome to my portfolio! This portfolio contains several samples of past projects I have worked on as a computer science student at Appalachian State University. I will add additional samples as I continue to advance as a programmer.
 
 <img src="images/demo.gif?raw=true"/>
 
@@ -26,7 +26,7 @@ Syntax highlighted code block
 ## Header 2
 ### Header 3
 
-- Bulleted
+- Bulletedse this template if you need a quick developer / data science portfolio! Based on a Minimal Jekyll theme for GitHub Pages.
 - List
 
 1. Numbered
